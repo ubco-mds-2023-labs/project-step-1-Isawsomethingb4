@@ -16,7 +16,7 @@ two subpackage: customer, admin
 
 include two modules, namely `members.py` and `transactions.py`.
 
-the module `membership.py` mainly stores the membership information inputs, including personal information such as name, email, phone number etc. It can also stores information like account credits, total consumption amount etc.
+the module `members.py` mainly stores the membership information inputs, including personal information such as name, email, phone number etc. It can also stores information like account credits, total consumption amount etc.
 
 the module `tranaction.py` records every order made by customers, providing detail information like transaction time, shopped items etc. It also enables customers to return, reorder goods, write reviews etc.
 
